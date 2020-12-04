@@ -25,9 +25,9 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
 public class CodeGenerator {
     //数据库连接参数
     public static String driver = "com.mysql.cj.jdbc.Driver";
-    public static String url = "jdbc:mysql://47.93.53.190:3306/straw?characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true";
-    public static String username="root";
-    public static String password="LH108zj223";
+    public static String url = "jdbc:mysql://数据库地址:3306/straw?characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true";
+    public static String username="数据库用户名";
+    public static String password="数据库密码";
     //父级别包名称
     public static String parentPackage = "cn.ytu.straw";
     //代码生成的目标路径
