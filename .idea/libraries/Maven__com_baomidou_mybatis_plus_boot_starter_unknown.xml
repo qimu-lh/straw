@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.baomidou:mybatis-plus-boot-starter:unknown">
+    <CLASSES>
+      <root url="jar://D:/maven/repository/com/baomidou/mybatis-plus-boot-starter/unknown/mybatis-plus-boot-starter-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/repository/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.jar!/" />
+      <root url="jar://D:/maven/repository/com/baomidou/mybatis-plus-boot-starter/unknown/mybatis-plus-boot-starter-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/repository/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.1.1/mybatis-spring-boot-starter-2.1.1.jar!/" />
+      <root url="jar://D:/maven/repository/com/baomidou/mybatis-plus-boot-starter/unknown/mybatis-plus-boot-starter-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

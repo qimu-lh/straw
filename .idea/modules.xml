@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/straw.iml" filepath="$PROJECT_DIR$/straw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-api/straw-api.iml" filepath="$PROJECT_DIR$/straw-api/straw-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-generator/straw-generator.iml" filepath="$PROJECT_DIR$/straw-generator/straw-generator.iml" />
     </modules>
   </component>
 </project>
